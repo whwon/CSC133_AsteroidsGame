@@ -1,0 +1,11 @@
+-The game starts without sound, you can click on the sound on the menu on the top left.
+-To move the ship you must increase the ship speed first, or press and hold the up arrow key. Then all other directions will be available once it has speed.
+-when paused, you wont have access to any of the buttons except for play and refill missiles (as instructed) 
+however if you did want to still be able to build asteroids or any other objects you can click on the overflow on the top right.
+-The arrow keys are a bit funky, as it will scroll through the side buttons but if you hold down the arrow key it will slowly begin to move.
+-The F key has been initialized to shoot missiles
+-To refill missiles on the space station the ship has to be directly on top of it and press F
+-I pre-added the blinking space station at a set location from the start, therfore got rid of the Button to create them as only one is needed in game
+-Collides will work when they are right on top of each other.
+-I apologize, as the Flying Saucer has to be hit directly in the center to be collided with missiles, ship, and asteroids.
+-When a object goes to the right, it may take a little longer to come back out from the right. And applies vice versa.
